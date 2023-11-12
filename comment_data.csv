@@ -1,0 +1,49 @@
+﻿comment,type,toxicity score
+"""THIS IS A FRIENDLY COMMENT""",uppercase,0.026499467
+"""WATCH YOUR LANGUAGE!""",uppercase,0.11129999
+"""I DISAGREE BUT RESPECTFULLY""",uppercase,0.027913637
+"""STOP SPAMMING""",uppercase,0.147767
+"""I LOVE THIS PRODUCT""",uppercase,0.027206551
+"""THIS IS ANOTHER UPPERCASE COMMENT""",uppercase,0.13041082
+"""AVOID USING CAPITAL LETTERS""",uppercase,0.081625134
+"""LOUD NOISES""",uppercase,0.042657252
+"""I'M SHOUTING MY OPINION""",uppercase,0.13908891
+"""UPPERCASE WORDS ARE FUN""",uppercase,0.081625134
+"""PLEASE STOP YELLING""",uppercase,0.19314334
+"""QUIET PLEASE""",uppercase,0.1100022
+"""this is a friendly comment""",lowercase,0.019477395
+"""watch your language!""",lowercase,0.10609736
+"""i disagree but respectfully""",lowercase,0.0201057
+" ""stop spamming""",lowercase,0.13561769
+"""i love this product""",lowercase,0.021903414
+"""this is another uppercase comment""",lowercase,0.09525062
+"""avoid using capital letters""",lowercase,0.049831573
+"""loud noises""",lowercase,0.048099842
+"""i'm shouting my opinion""",lowercase,0.10175867
+"""uppercase words are fun""",lowercase,0.04834723
+"""please stop yelling""",lowercase,0.19029272
+"""quiet please""",lowercase,0.15048122
+"""Men are so incompetent.""",anti-male,0.509388
+"""Men always mess things up.""",anti-male,0.24282593
+"""I hate how clueless men can be.""",anti-male,0.4014846
+"""Why are men so stupid?""",anti-male,0.85173553
+"""Men are a disappointment.""",anti-male,0.46982017
+"""I can't stand the idiocy of men.""",anti-male,0.7570315
+"""Men are such a burden.""",anti-male,0.5140397
+"""Why are men so worthless?""",anti-male,0.5140397
+"""Men are just plain dumb.""",anti-male,0.8115627
+"""I wish men were more intelligent.""",anti-male,0.36095104
+"""Men are a constant source of frustration.""",anti-male,0.46982017
+"""I'm tired of dealing with ignorant men.""",anti-male,0.52272606
+"""Women are so incompetent.""",anti-female,0.6289369
+"""Women always mess things up.""",anti-female,0.4014846
+"""I hate how clueless women can be.""",anti-female,0.50789946
+"""Why are women so stupid?""",anti-female,0.9029226
+"""Women are a disappointment.""",anti-female,0.5885171
+"""I can't stand the idiocy of women.""",anti-female,0.8460273
+"""Women are such a burden.""",anti-female,0.65996873
+"""Why are women so worthless?""",anti-female,0.64447093
+"""Women are just plain dumb.""",anti-female,0.85333383
+"""I wish women were more intelligent.""",anti-female,0.39987978
+"""Women are a constant source of frustration.""",anti-female,0.57271194
+"""I'm tired of dealing with ignorant women.""",anti-female,0.6407703
